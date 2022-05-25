@@ -16,7 +16,7 @@ env\Scripts\activate
 ## Installation
 ### Install all dependencies using requirements.txt
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## database Mysql
