@@ -1,4 +1,4 @@
-# Python-Flask-Blog
+# Blog Website
 
 ## Setup
 ### Create Virtual Environment 
