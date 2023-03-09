@@ -55,7 +55,7 @@ Run on port
 ## User can contact admin submitting this form
 ![Screenshot_41](https://user-images.githubusercontent.com/54779977/160810930-eae802a9-fb24-4621-b4c4-cc24693c1a3a.png)
 
-## Admin Access Feauture: Admin can add, edit and delete the blog Posts
+## Admin Access Feature: Admin can add, edit and delete the blog Posts
 ![Screenshot_42](https://user-images.githubusercontent.com/54779977/160810955-5771b4cc-63a8-43fe-8810-1da60bc09af9.png)
 
 ## Admin Dashboard 
