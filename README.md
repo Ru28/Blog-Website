@@ -42,7 +42,7 @@ Run on port
 ![Screenshot_36](https://user-images.githubusercontent.com/54779977/160809973-7aa97daf-ef09-4d0d-baa4-15ecda1d9f60.png)
 ![Screenshot_37](https://user-images.githubusercontent.com/54779977/160809185-d4072de1-4f3d-4b78-914a-25ab53f84cec.png)
 
-## User can see older and newer post using prev and next button (pagination feauture)
+## User can see older and newer post using prev and next button (pagination feature)
 ![Screenshot_38](https://user-images.githubusercontent.com/54779977/160810305-210a3311-989d-46fe-9a12-433d3925d5df.png)
 
 
